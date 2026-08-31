@@ -7,4 +7,4 @@
 :HL["/about/recognition-03.png","image"]
 :HL["/about/recognition-04.png","image"]
 :HL["/about/recognition-05.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"about","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"H6WSws_iItsyNkPLtsP7I"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"about","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"gzR-ZZgpuZwmi9NqiO6HQ"}

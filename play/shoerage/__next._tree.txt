@@ -1,2 +1,13 @@
 :HL["/_next/static/chunks/0~iss8cqz8s3~.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"play","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"shoerage","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"H6WSws_iItsyNkPLtsP7I"}
+:HL["/work/logo.svg","image"]
+:HL["/project-assets/play/shoerage/img-1.webp","image"]
+:HL["/project-assets/play/shoerage/img-2.webp","image"]
+:HL["/project-assets/play/shoerage/img-3.webp","image"]
+:HL["/project-assets/play/shoerage/img-4.gif","image"]
+:HL["/project-assets/play/shoerage/img-5.webp","image"]
+:HL["/project-assets/play/shoerage/img-6.webp","image"]
+:HL["/project-assets/play/shoerage/img-7.webp","image"]
+:HL["/project-assets/play/shoerage/img-8.webp","image"]
+:HL["/project-assets/play/shoerage/img-9.webp","image"]
+:HL["/project-assets/play/shoerage/img-10.gif","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"play","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"shoerage","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"gzR-ZZgpuZwmi9NqiO6HQ"}

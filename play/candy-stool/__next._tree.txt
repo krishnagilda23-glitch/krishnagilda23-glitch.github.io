@@ -1,2 +1,9 @@
 :HL["/_next/static/chunks/0~iss8cqz8s3~.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"play","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"candy-stool","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"H6WSws_iItsyNkPLtsP7I"}
+:HL["/work/logo.svg","image"]
+:HL["/project-assets/play/candy-stool/img-1.webp","image"]
+:HL["/project-assets/play/candy-stool/img-2.webp","image"]
+:HL["/project-assets/play/candy-stool/img-3.webp","image"]
+:HL["/project-assets/play/candy-stool/img-4.webp","image"]
+:HL["/project-assets/play/candy-stool/img-5.webp","image"]
+:HL["/project-assets/play/candy-stool/img-6.webp","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"play","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"candy-stool","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"gzR-ZZgpuZwmi9NqiO6HQ"}
