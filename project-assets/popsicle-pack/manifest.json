@@ -1,0 +1,86 @@
+[
+  {
+    "index": 1,
+    "id": "1053:1463",
+    "name": "image 167",
+    "file": "/public/project-assets/popsicle-pack/01-image-167.png",
+    "box": {
+      "x": 76852,
+      "y": -19684.619140625,
+      "width": 1240,
+      "height": 876.1253662109375
+    },
+    "cornerRadius": 10,
+    "mimeType": "image/png"
+  },
+  {
+    "index": 2,
+    "id": "1053:1510",
+    "name": "image 169",
+    "file": "/public/project-assets/popsicle-pack/02-image-169.png",
+    "box": {
+      "x": 76852,
+      "y": -18639.4921875,
+      "width": 1240,
+      "height": 765.7286987304688
+    },
+    "cornerRadius": 0,
+    "mimeType": "image/png"
+  },
+  {
+    "index": 3,
+    "id": "1053:1568",
+    "name": "image 170",
+    "file": "/public/project-assets/popsicle-pack/03-image-170.png",
+    "box": {
+      "x": 76852,
+      "y": -17704.763671875,
+      "width": 1240,
+      "height": 876.510986328125
+    },
+    "cornerRadius": 0,
+    "mimeType": "image/png"
+  },
+  {
+    "index": 4,
+    "id": "1053:1620",
+    "name": "image 171",
+    "file": "/public/project-assets/popsicle-pack/04-image-171.png",
+    "box": {
+      "x": 76852,
+      "y": -16659.25390625,
+      "width": 1240,
+      "height": 876.510986328125
+    },
+    "cornerRadius": 0,
+    "mimeType": "image/png"
+  },
+  {
+    "index": 5,
+    "id": "1053:1650",
+    "name": "image 172",
+    "file": "/public/project-assets/popsicle-pack/05-image-172.png",
+    "box": {
+      "x": 76852,
+      "y": -15752.7421875,
+      "width": 1240,
+      "height": 876.510986328125
+    },
+    "cornerRadius": 0,
+    "mimeType": "image/png"
+  },
+  {
+    "index": 6,
+    "id": "1053:1656",
+    "name": "image 174",
+    "file": "/public/project-assets/popsicle-pack/06-image-174.png",
+    "box": {
+      "x": 76852,
+      "y": -14846.2314453125,
+      "width": 1240,
+      "height": 721
+    },
+    "cornerRadius": 0,
+    "mimeType": "image/png"
+  }
+]

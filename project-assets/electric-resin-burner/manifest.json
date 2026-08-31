@@ -1,0 +1,450 @@
+[
+  {
+    "index": 1,
+    "id": "1048:1083",
+    "name": "image 148",
+    "file": "/public/project-assets/electric-resin-burner/01-image-148.png",
+    "box": {
+      "x": 29879,
+      "y": -19158.619140625,
+      "width": 1240,
+      "height": 697.5
+    },
+    "cornerRadius": 0,
+    "mimeType": "image/png"
+  },
+  {
+    "index": 2,
+    "id": "1046:944",
+    "name": "f1 11",
+    "file": "/public/project-assets/electric-resin-burner/02-f1-11.png",
+    "box": {
+      "x": 29879,
+      "y": -18431.119140625,
+      "width": 1240,
+      "height": 788.2857055664062
+    },
+    "cornerRadius": 0,
+    "mimeType": "image/png"
+  },
+  {
+    "index": 3,
+    "id": "1046:945",
+    "name": "f2 3",
+    "file": "/public/project-assets/electric-resin-burner/03-f2-3.png",
+    "box": {
+      "x": 29879,
+      "y": -17612.83203125,
+      "width": 1240,
+      "height": 788.2857055664062
+    },
+    "cornerRadius": 0,
+    "mimeType": "image/png"
+  },
+  {
+    "index": 4,
+    "id": "1046:946",
+    "name": "f3 3",
+    "file": "/public/project-assets/electric-resin-burner/04-f3-3.png",
+    "box": {
+      "x": 29879,
+      "y": -16794.546875,
+      "width": 1240,
+      "height": 788.2857055664062
+    },
+    "cornerRadius": 0,
+    "mimeType": "image/png"
+  },
+  {
+    "index": 5,
+    "id": "1046:947",
+    "name": "f4 4",
+    "file": "/public/project-assets/electric-resin-burner/05-f4-4.png",
+    "box": {
+      "x": 29879,
+      "y": -15976.26171875,
+      "width": 1240,
+      "height": 697.1836547851562
+    },
+    "cornerRadius": 0,
+    "mimeType": "image/png"
+  },
+  {
+    "index": 6,
+    "id": "1046:948",
+    "name": "f5 3",
+    "file": "/public/project-assets/electric-resin-burner/06-f5-3.png",
+    "box": {
+      "x": 29879,
+      "y": -15249.078125,
+      "width": 1240,
+      "height": 697.1836547851562
+    },
+    "cornerRadius": 0,
+    "mimeType": "image/png"
+  },
+  {
+    "index": 7,
+    "id": "1046:949",
+    "name": "f6 5",
+    "file": "/public/project-assets/electric-resin-burner/07-f6-5.png",
+    "box": {
+      "x": 29879,
+      "y": -14521.89453125,
+      "width": 1240,
+      "height": 697.1836547851562
+    },
+    "cornerRadius": 0,
+    "mimeType": "image/png"
+  },
+  {
+    "index": 8,
+    "id": "1046:950",
+    "name": "f7 3",
+    "file": "/public/project-assets/electric-resin-burner/08-f7-3.png",
+    "box": {
+      "x": 29879,
+      "y": -13794.7109375,
+      "width": 1240,
+      "height": 697.1836547851562
+    },
+    "cornerRadius": 0,
+    "mimeType": "image/png"
+  },
+  {
+    "index": 9,
+    "id": "1046:951",
+    "name": "f8 3",
+    "file": "/public/project-assets/electric-resin-burner/09-f8-3.png",
+    "box": {
+      "x": 29879,
+      "y": -13067.52734375,
+      "width": 1240,
+      "height": 697.1836547851562
+    },
+    "cornerRadius": 0,
+    "mimeType": "image/png"
+  },
+  {
+    "index": 10,
+    "id": "1046:952",
+    "name": "f9 1",
+    "file": "/public/project-assets/electric-resin-burner/10-f9-1.png",
+    "box": {
+      "x": 29879,
+      "y": -12340.34375,
+      "width": 1240,
+      "height": 697.1836547851562
+    },
+    "cornerRadius": 0,
+    "mimeType": "image/png"
+  },
+  {
+    "index": 11,
+    "id": "1046:953",
+    "name": "f10 2",
+    "file": "/public/project-assets/electric-resin-burner/11-f10-2.png",
+    "box": {
+      "x": 29879,
+      "y": -11613.16015625,
+      "width": 1240,
+      "height": 697.1836547851562
+    },
+    "cornerRadius": 0,
+    "mimeType": "image/png"
+  },
+  {
+    "index": 12,
+    "id": "1046:955",
+    "name": "f11 (1) 2",
+    "file": "/public/project-assets/electric-resin-burner/12-f11-1-2.png",
+    "box": {
+      "x": 29879,
+      "y": -10885.9755859375,
+      "width": 1240,
+      "height": 816.1224365234375
+    },
+    "cornerRadius": 0,
+    "mimeType": "image/png"
+  },
+  {
+    "index": 13,
+    "id": "1046:956",
+    "name": "f12 1",
+    "file": "/public/project-assets/electric-resin-burner/13-f12-1.png",
+    "box": {
+      "x": 29879,
+      "y": -10039.853515625,
+      "width": 1240,
+      "height": 1067.9183349609375
+    },
+    "cornerRadius": 0,
+    "mimeType": "image/png"
+  },
+  {
+    "index": 14,
+    "id": "1046:958",
+    "name": "f13 (1) 2",
+    "file": "/public/project-assets/electric-resin-burner/14-f13-1-2.png",
+    "box": {
+      "x": 29879,
+      "y": -8941.935546875,
+      "width": 1240,
+      "height": 850.2857055664062
+    },
+    "cornerRadius": 0,
+    "mimeType": "image/png"
+  },
+  {
+    "index": 15,
+    "id": "1047:1009",
+    "name": "image 135",
+    "file": "/public/project-assets/electric-resin-burner/15-image-135.png",
+    "box": {
+      "x": 29879,
+      "y": -7944.6494140625,
+      "width": 1240,
+      "height": 355.7861328125
+    },
+    "cornerRadius": 0,
+    "mimeType": "image/png"
+  },
+  {
+    "index": 16,
+    "id": "1047:1014",
+    "name": "Burner 1 1",
+    "file": "/public/project-assets/electric-resin-burner/16-burner-1-1.png",
+    "box": {
+      "x": 30228.255859375,
+      "y": -7558.86328125,
+      "width": 294.33953857421875,
+      "height": 413
+    },
+    "cornerRadius": 0,
+    "mimeType": "image/png"
+  },
+  {
+    "index": 17,
+    "id": "1047:1015",
+    "name": "Burner 2 1",
+    "file": "/public/project-assets/electric-resin-burner/17-burner-2-1.png",
+    "box": {
+      "x": 30542.59375,
+      "y": -7558.86328125,
+      "width": 227.15000915527344,
+      "height": 413
+    },
+    "cornerRadius": 0,
+    "mimeType": "image/png"
+  },
+  {
+    "index": 18,
+    "id": "1047:1020",
+    "name": "image 137",
+    "file": "/public/project-assets/electric-resin-burner/18-image-137.png",
+    "box": {
+      "x": 29879,
+      "y": -7115.86328125,
+      "width": 1240,
+      "height": 1913.0093994140625
+    },
+    "cornerRadius": 0,
+    "mimeType": "image/png"
+  },
+  {
+    "index": 19,
+    "id": "1047:1022",
+    "name": "Burner 3 1",
+    "file": "/public/project-assets/electric-resin-burner/19-burner-3-1.png",
+    "box": {
+      "x": 29879,
+      "y": -5172.853515625,
+      "width": 386.6666564941406,
+      "height": 286.76385498046875
+    },
+    "cornerRadius": 0,
+    "mimeType": "image/png"
+  },
+  {
+    "index": 20,
+    "id": "1047:1023",
+    "name": "Burner 4 1",
+    "file": "/public/project-assets/electric-resin-burner/20-burner-4-1.png",
+    "box": {
+      "x": 30305.666015625,
+      "y": -5172.853515625,
+      "width": 386.66668701171875,
+      "height": 286.7638854980469
+    },
+    "cornerRadius": 0,
+    "mimeType": "image/png"
+  },
+  {
+    "index": 21,
+    "id": "1047:1024",
+    "name": "Burner 5 1",
+    "file": "/public/project-assets/electric-resin-burner/21-burner-5-1.png",
+    "box": {
+      "x": 30732.333984375,
+      "y": -5172.853515625,
+      "width": 386.66668701171875,
+      "height": 286.7638854980469
+    },
+    "cornerRadius": 0,
+    "mimeType": "image/png"
+  },
+  {
+    "index": 22,
+    "id": "1047:1041",
+    "name": "image 138",
+    "file": "/public/project-assets/electric-resin-burner/22-image-138.png",
+    "box": {
+      "x": 29879,
+      "y": -4744.08984375,
+      "width": 1240,
+      "height": 3035.8876953125
+    },
+    "cornerRadius": 0,
+    "mimeType": "image/png"
+  },
+  {
+    "index": 23,
+    "id": "1047:1057",
+    "name": "image 141",
+    "file": "/public/project-assets/electric-resin-burner/23-image-141.png",
+    "box": {
+      "x": 29879,
+      "y": -1678.203125,
+      "width": 1240,
+      "height": 533.5
+    },
+    "cornerRadius": 0,
+    "mimeType": "image/png"
+  },
+  {
+    "index": 24,
+    "id": "1047:1049",
+    "name": "Burner 6 1",
+    "file": "/public/project-assets/electric-resin-burner/24-burner-6-1.png",
+    "box": {
+      "x": 29879,
+      "y": -1114.703125,
+      "width": 386.6666564941406,
+      "height": 255
+    },
+    "cornerRadius": 0,
+    "mimeType": "image/png"
+  },
+  {
+    "index": 25,
+    "id": "1047:1050",
+    "name": "Burner 7 1",
+    "file": "/public/project-assets/electric-resin-burner/25-burner-7-1.png",
+    "box": {
+      "x": 30305.666015625,
+      "y": -1114.703125,
+      "width": 386.66668701171875,
+      "height": 255
+    },
+    "cornerRadius": 0,
+    "mimeType": "image/png"
+  },
+  {
+    "index": 26,
+    "id": "1047:1051",
+    "name": "Burner 8 1",
+    "file": "/public/project-assets/electric-resin-burner/26-burner-8-1.png",
+    "box": {
+      "x": 30732.333984375,
+      "y": -1114.703125,
+      "width": 386.66668701171875,
+      "height": 255
+    },
+    "cornerRadius": 0,
+    "mimeType": "image/png"
+  },
+  {
+    "index": 27,
+    "id": "1047:1060",
+    "name": "image 142",
+    "file": "/public/project-assets/electric-resin-burner/27-image-142.png",
+    "box": {
+      "x": 29879,
+      "y": -829.703125,
+      "width": 1240,
+      "height": 1720.5
+    },
+    "cornerRadius": 0,
+    "mimeType": "image/png"
+  },
+  {
+    "index": 28,
+    "id": "1048:1070",
+    "name": "image 145",
+    "file": "/public/project-assets/electric-resin-burner/28-image-145.png",
+    "box": {
+      "x": 29879,
+      "y": 920.796875,
+      "width": 1240,
+      "height": 80.5
+    },
+    "cornerRadius": 0,
+    "mimeType": "image/png"
+  },
+  {
+    "index": 29,
+    "id": "1047:1066",
+    "name": "Burner 9 1",
+    "file": "/public/project-assets/electric-resin-burner/29-burner-9-1.png",
+    "box": {
+      "x": 29939,
+      "y": 1031.296875,
+      "width": 540,
+      "height": 503.2799987792969
+    },
+    "cornerRadius": 0,
+    "mimeType": "image/png"
+  },
+  {
+    "index": 30,
+    "id": "1047:1067",
+    "name": "Burner 10 1",
+    "file": "/public/project-assets/electric-resin-burner/30-burner-10-1.png",
+    "box": {
+      "x": 30519,
+      "y": 1031.296875,
+      "width": 540,
+      "height": 503.2799987792969
+    },
+    "cornerRadius": 0,
+    "mimeType": "image/png"
+  },
+  {
+    "index": 31,
+    "id": "1048:1073",
+    "name": "image 146",
+    "file": "/public/project-assets/electric-resin-burner/31-image-146.png",
+    "box": {
+      "x": 29879,
+      "y": 1564.576171875,
+      "width": 1240,
+      "height": 166.5
+    },
+    "cornerRadius": 0,
+    "mimeType": "image/png"
+  },
+  {
+    "index": 32,
+    "id": "1048:1076",
+    "name": "image 147",
+    "file": "/public/project-assets/electric-resin-burner/32-image-147.png",
+    "box": {
+      "x": 29879,
+      "y": 1761.076171875,
+      "width": 1240,
+      "height": 2821.68896484375
+    },
+    "cornerRadius": 0,
+    "mimeType": "image/png"
+  }
+]
