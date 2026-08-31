@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/15d0ol8ti27lo.css","style"]
+:HL["/_next/static/chunks/0dcjxf7~lipga.css","style"]
 :HL["/work/logo.svg","image"]
 :HL["/project-assets/eeg-headset/sponsor.png","image"]
 :HL["/project-assets/eeg-headset/client.png","image"]
@@ -17,4 +17,4 @@
 :HL["/project-assets/eeg-headset/grid2-left.png","image"]
 :HL["/project-assets/eeg-headset/grid2-mid.png","image"]
 :HL["/project-assets/eeg-headset/grid2-right.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"work","param":null,"prefetchHints":0,"slots":{"children":{"name":"eeg-headset","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"ihB2dk89Tk2783kkBplE0"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"work","param":null,"prefetchHints":0,"slots":{"children":{"name":"eeg-headset","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"id-epCVWr7HRmaU-BrgPF"}
