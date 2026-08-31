@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/0dcjxf7~lipga.css","style"]
+:HL["/_next/static/chunks/0~iss8cqz8s3~.css","style"]
 :HL["/work/logo.svg","image"]
 :HL["/project-assets/sherpa-mecha/hero-mecha.webp","image"]
 :HL["/project-assets/sherpa-mecha/role-mecha.webp","image"]
@@ -29,4 +29,4 @@
 :HL["/project-assets/sherpa-mecha/making-5.webp","image"]
 :HL["/project-assets/sherpa-mecha/making-6.webp","image"]
 :HL["/project-assets/sherpa-mecha/making-7.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"work","param":null,"prefetchHints":0,"slots":{"children":{"name":"sherpa-mecha","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"id-epCVWr7HRmaU-BrgPF"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"work","param":null,"prefetchHints":0,"slots":{"children":{"name":"sherpa-mecha","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"H6WSws_iItsyNkPLtsP7I"}

@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/0dcjxf7~lipga.css","style"]
+:HL["/_next/static/chunks/0~iss8cqz8s3~.css","style"]
 :HL["/work/logo.svg","image"]
 :HL["/project-assets/mellow/01-mellow-logo.gif","image"]
 :HL["/project-assets/mellow/02-image-163.png","image"]
@@ -32,4 +32,4 @@
 :HL["/project-assets/mellow/30-image-159.png","image"]
 :HL["/project-assets/mellow/31-image-157.png","image"]
 :HL["/project-assets/mellow/32-image-161.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"work","param":null,"prefetchHints":0,"slots":{"children":{"name":"mellow","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"id-epCVWr7HRmaU-BrgPF"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"work","param":null,"prefetchHints":0,"slots":{"children":{"name":"mellow","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"H6WSws_iItsyNkPLtsP7I"}

@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/0dcjxf7~lipga.css","style"]
+:HL["/_next/static/chunks/0~iss8cqz8s3~.css","style"]
 :HL["/work/logo.svg","image"]
 :HL["/project-assets/chai-maker/hero.png","image"]
 :HL["/project-assets/chai-maker/wide-front.png","image"]
@@ -7,4 +7,4 @@
 :HL["/project-assets/chai-maker/lid-open.png","image"]
 :HL["/project-assets/chai-maker/strainer.png","image"]
 :HL["/project-assets/chai-maker/final.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"work","param":null,"prefetchHints":0,"slots":{"children":{"name":"chai-maker","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"id-epCVWr7HRmaU-BrgPF"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"work","param":null,"prefetchHints":0,"slots":{"children":{"name":"chai-maker","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"H6WSws_iItsyNkPLtsP7I"}
