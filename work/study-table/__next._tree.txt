@@ -9,4 +9,4 @@
 :HL["/project-assets/study-table/full-2.png","image"]
 :HL["/project-assets/study-table/final-1.png","image"]
 :HL["/project-assets/study-table/final-2.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"work","param":null,"prefetchHints":0,"slots":{"children":{"name":"study-table","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"gzR-ZZgpuZwmi9NqiO6HQ"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"work","param":null,"prefetchHints":0,"slots":{"children":{"name":"study-table","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"Ym9i0wTc0vOui6HUqgZfv"}

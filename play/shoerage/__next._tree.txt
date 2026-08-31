@@ -10,4 +10,4 @@
 :HL["/project-assets/play/shoerage/img-8.webp","image"]
 :HL["/project-assets/play/shoerage/img-9.webp","image"]
 :HL["/project-assets/play/shoerage/img-10.gif","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"play","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"shoerage","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"gzR-ZZgpuZwmi9NqiO6HQ"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"play","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"shoerage","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"Ym9i0wTc0vOui6HUqgZfv"}

@@ -9,4 +9,4 @@
 :HL["/project-assets/play/metalcone/img-6.webp","image"]
 :HL["/project-assets/play/metalcone/img-7.webp","image"]
 :HL["/project-assets/play/metalcone/img-8.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"play","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"metalcone","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"gzR-ZZgpuZwmi9NqiO6HQ"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"play","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"metalcone","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"Ym9i0wTc0vOui6HUqgZfv"}
