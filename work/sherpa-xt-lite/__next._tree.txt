@@ -1,4 +1,5 @@
-:HL["/_next/static/chunks/0~iss8cqz8s3~.css","style"]
-:HL["/work/logo.svg","image"]
+:HL["/_next/static/css/90e0ab5199400e9b.css","style"]
+:HL["/_next/static/css/c8b7f4ddf549909b.css","style"]
 :HL["/project-assets/sherpa-xt-lite/hero.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"work","param":null,"prefetchHints":0,"slots":{"children":{"name":"sherpa-xt-lite","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"Ym9i0wTc0vOui6HUqgZfv"}
+:HL["/v2/assets/arrow-up.svg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"work","param":null,"prefetchHints":0,"slots":{"children":{"name":"sherpa-xt-lite","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"QrOC0qpYkqI-YmJQhnfnk"}

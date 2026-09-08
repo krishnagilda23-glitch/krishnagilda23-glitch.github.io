@@ -1,5 +1,6 @@
-:HL["/_next/static/chunks/0~iss8cqz8s3~.css","style"]
-:HL["/work/logo.svg","image"]
+:HL["/_next/static/css/90e0ab5199400e9b.css","style"]
+:HL["/_next/static/css/c8b7f4ddf549909b.css","style"]
+:HL["/_next/static/css/9f769641e39ffd82.css","style"]
 :HL["/project-assets/electric-resin-burner/01-image-148.png","image"]
 :HL["/project-assets/electric-resin-burner/02-f1-11.png","image"]
 :HL["/project-assets/electric-resin-burner/03-f2-3.png","image"]
@@ -32,4 +33,5 @@
 :HL["/project-assets/electric-resin-burner/30-burner-10-1.png","image"]
 :HL["/project-assets/electric-resin-burner/31-image-146.png","image"]
 :HL["/project-assets/electric-resin-burner/32-image-147.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"work","param":null,"prefetchHints":0,"slots":{"children":{"name":"electric-resin-burner","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"Ym9i0wTc0vOui6HUqgZfv"}
+:HL["/v2/assets/arrow-up.svg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"work","param":null,"prefetchHints":0,"slots":{"children":{"name":"electric-resin-burner","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"QrOC0qpYkqI-YmJQhnfnk"}

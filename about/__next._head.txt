@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:I[25326,["/_next/static/chunks/11q-3mtsn6em~.js","/_next/static/chunks/0w~ocmxkih9eq.js"],"ViewportBoundary"]
-3:I[25326,["/_next/static/chunks/11q-3mtsn6em~.js","/_next/static/chunks/0w~ocmxkih9eq.js"],"MetadataBoundary"]
+2:I[484,[],"ViewportBoundary"]
+3:I[484,[],"MetadataBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Krishna Gilda — Industrial Designer"}],["$","meta","1",{"name":"description","content":"Selected industrial design, robotics, mobility, and product innovation projects by Krishna Gilda."}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Ym9i0wTc0vOui6HUqgZfv"}
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"About — Krishna Gilda"}],["$","meta","1",{"name":"description","content":"Selected industrial design, robotics, mobility, and product innovation projects by Krishna Gilda."}],["$","link","2",{"rel":"canonical","href":"https://krishnagilda.com/about/"}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"QrOC0qpYkqI-YmJQhnfnk"}

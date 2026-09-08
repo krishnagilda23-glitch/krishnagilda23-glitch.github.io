@@ -1,0 +1,12 @@
+:HL["/_next/static/css/90e0ab5199400e9b.css","style"]
+:HL["/_next/static/css/c8b7f4ddf549909b.css","style"]
+:HL["/project-assets/play/regal/img-1.webp","image"]
+:HL["/project-assets/play/regal/img-2.webp","image"]
+:HL["/project-assets/play/regal/img-3.webp","image"]
+:HL["/project-assets/play/regal/img-4.webp","image"]
+:HL["/project-assets/play/regal/img-5.webp","image"]
+:HL["/project-assets/play/regal/img-6.webp","image"]
+:HL["/project-assets/play/regal/img-7.webp","image"]
+:HL["/project-assets/play/regal/img-8.webp","image"]
+:HL["/v2/assets/arrow-up.svg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"playground","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"regal","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"QrOC0qpYkqI-YmJQhnfnk"}
