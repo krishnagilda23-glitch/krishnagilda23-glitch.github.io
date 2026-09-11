@@ -1,5 +1,5 @@
 :HL["/_next/static/css/90e0ab5199400e9b.css","style"]
-:HL["/_next/static/css/c8b7f4ddf549909b.css","style"]
+:HL["/_next/static/css/f5e4adc676b348bc.css","style"]
 :HL["/project-assets/play/metalcone/award.webp","image"]
 :HL["/project-assets/play/metalcone/img-1.webp","image"]
 :HL["/project-assets/play/metalcone/img-2.webp","image"]
@@ -10,4 +10,4 @@
 :HL["/project-assets/play/metalcone/img-7.webp","image"]
 :HL["/project-assets/play/metalcone/img-8.webp","image"]
 :HL["/v2/assets/arrow-up.svg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"playground","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"metalcone","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"QrOC0qpYkqI-YmJQhnfnk"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"playground","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"metalcone","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"WbtqZ4sqDvZ1I3hlZk2cT"}

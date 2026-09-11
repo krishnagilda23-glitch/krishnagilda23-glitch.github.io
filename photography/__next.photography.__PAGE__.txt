@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[399,["893","static/chunks/893-d4d3ffd758f459ae.js","399","static/chunks/399-5574387a0e16323f.js","342","static/chunks/app/photography/page-3e95258cb1e39b42.js"],"default"]
+2:I[399,["2893","static/chunks/2893-a527bda896ea43e3.js","399","static/chunks/399-21ea4e0295910187.js","8342","static/chunks/app/photography/page-8c30c528b4198312.js"],"default"]
 3:I[484,[],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"page":"photography"}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"QrOC0qpYkqI-YmJQhnfnk"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"page":"photography"}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"WbtqZ4sqDvZ1I3hlZk2cT"}
 5:null
