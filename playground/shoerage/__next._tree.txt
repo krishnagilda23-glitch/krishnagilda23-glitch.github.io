@@ -1,6 +1,6 @@
 :HL["/_next/static/css/90e0ab5199400e9b.css","style"]
 :HL["/_next/static/css/f5e4adc676b348bc.css","style"]
-:HL["/_next/static/css/f4f656d58326d089.css","style"]
+:HL["/_next/static/css/fd0df0b0a89b0a77.css","style"]
 :HL["/project-assets/play/shoerage/img-1.webp","image"]
 :HL["/project-assets/play/shoerage/img-2.webp","image"]
 :HL["/project-assets/play/shoerage/img-3.webp","image"]
@@ -12,4 +12,4 @@
 :HL["/project-assets/play/shoerage/img-9.webp","image"]
 :HL["/project-assets/play/shoerage/img-10.gif","image"]
 :HL["/v2/assets/arrow-up.svg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"playground","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"shoerage","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"RVMlLotnLr5aJWKFIMDun"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"playground","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"shoerage","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"FkbXSK5pQ1JX-MPpoUvAY"}
