@@ -2,5 +2,5 @@
 2:I[7623,["6289","static/chunks/app/trajectory-study/thoughts/page-b0b238039033ab25.js"],"default"]
 3:I[983,[],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"to":"/thoughts/"}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"kkwpZ6cG6dE07lt-i4KpI"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"to":"/thoughts/"}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"WbjnlxwGhmu7TWrY3RiJV"}
 5:null
