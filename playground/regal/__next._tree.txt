@@ -1,5 +1,5 @@
 :HL["/_next/static/css/90e0ab5199400e9b.css","style"]
-:HL["/_next/static/css/78c0c81f2b5b8802.css","style"]
+:HL["/_next/static/css/82d5be2b43e6b34a.css","style"]
 :HL["/_next/static/css/679d02eed01cf477.css","style"]
 :HL["/project-assets/play/regal/img-1.webp","image",{"fetchPriority":"high"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"playground","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"regal","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"WbjnlxwGhmu7TWrY3RiJV"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"playground","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"regal","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"uzfebXyjfNY0w18xbilxO"}
