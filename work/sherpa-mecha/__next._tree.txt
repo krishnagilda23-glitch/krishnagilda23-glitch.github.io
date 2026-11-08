@@ -1,6 +1,5 @@
 :HL["/_next/static/css/90e0ab5199400e9b.css","style"]
 :HL["/_next/static/css/82d5be2b43e6b34a.css","style"]
-:HL["/_next/static/css/679d02eed01cf477.css","style"]
 :HL["/project-assets/sherpa-mecha/hero-mecha.webp","image",{"fetchPriority":"high"}]
 :HL["/v2/about/recognition-german.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"work","param":null,"prefetchHints":0,"slots":{"children":{"name":"sherpa-mecha","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"uzfebXyjfNY0w18xbilxO"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"work","param":null,"prefetchHints":0,"slots":{"children":{"name":"sherpa-mecha","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"QUyTQG7eiXOXdQR6xN4Ko"}
